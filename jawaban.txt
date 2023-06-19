@@ -1,0 +1,8 @@
+dash board itu untuk menampilkan jumlah produk masuk , prduk keluar , jumlah user , klarifikasi produk
+klasifikasi produk / kategori menampilkan jenis atau ketegori dari produk
+data instansi menjelaskan tentang profil perusahaan 
+data Pengguna untuk menampilkan semua user dan admin yang terdaftar
+produk masuk untuk memberikan informasi produk yang masuk
+produk keluar , untuk memberikan informasi produk yang keluar
+laporan prduk masuk, untuk mengecek produk yang masuk
+laporan produk keluar untuk mengecek barang yang sudah keluar
